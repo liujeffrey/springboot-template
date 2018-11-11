@@ -1,7 +1,6 @@
 package com.example.template.aspect;
 
 import com.example.template.response.Response;
-import com.sun.deploy.xml.BadTokenException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;
