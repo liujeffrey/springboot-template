@@ -19,7 +19,7 @@ public class MainController {
     @ApiOperation(value="测试接口", notes="测试网络联通")
     public Response hellWorld() {
         Response response = new Response();
-        response.success("heollo world!");
+        response.success("你好 world!");
         return response;
     }
 
